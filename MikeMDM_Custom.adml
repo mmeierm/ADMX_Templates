@@ -1,0 +1,12 @@
+<policyDefinitionResources revision="1.0" schemaVersion="1.0">
+  <displayName>MikeMDM Display Settings</displayName>
+  <description>MikeMDM Display Settings</description>
+  <resources>
+    <stringTable>
+      <string id="Category">MikeMDM Custom</string>
+<string id="Win8DpiScaling">Win8DpiScaling</string>     
+<string id="LogPixels">LogPixels</string>   
+<string id="SUPPORTED_Windows">Windows 10</string>     	  
+	</stringTable>  
+  </resources>
+</policyDefinitionResources>
